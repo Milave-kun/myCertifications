@@ -6,6 +6,7 @@
 
 ![image](https://github.com/Milave-kun/myCertifications/assets/125982535/e47218ca-f868-495a-b190-5336502194ab)
 
+<br>
 
 ## Cognitive Class
 ### Data Privacy Fundamentals
@@ -17,6 +18,7 @@
 
 ![image](https://github.com/Milave-kun/myCertifications/assets/125982535/4f2b12fa-6d22-41b4-a443-bb6c401e15c8)
 
+<br>
 
 ## Datacamp
 ### Introduction to Phyton
@@ -27,6 +29,8 @@
 
 ![statement-of-accomplishment (1)](https://github.com/Milave-kun/myCertifications/assets/125982535/8ed8cf39-500f-41d5-898a-d35e305e6470)
 
+<br>
+
 ## freeCodeCamp
 ### Responsive Web Design
 
@@ -35,6 +39,8 @@
 ### JavaScript Algorithms and Data Structures (Beta)
 
 ![Screenshot 2024-07-09 153101](https://github.com/Milave-kun/myCertifications/assets/125982535/51a60512-1ef0-418e-8522-d73e6c6678ea)
+
+<br>
 
 ## Simplilearn
 ### Business Analytics with Excel
@@ -45,6 +51,7 @@
 
 ![image](https://github.com/Milave-kun/myCertifications/assets/125982535/38b6bb31-870f-4474-ad64-dd02bbfe981b)
 
+<br>
 
 ## TOP (TESDA Online Program)
 ### Introduction to CSS
